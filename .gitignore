@@ -176,3 +176,4 @@ cython_debug/
 /uploads
 /.venv
 __pycache__/
+*.csv
